@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "799559364276",
+    "project_id": "fir-blog-ccb4e",
+    "storage_bucket": "fir-blog-ccb4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799559364276:android:5e5effb2cad246787e31e1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799559364276-k241ge5hkj4mgcbfmahf8tf4g86nlmdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-O_TSrsFgjE4l0VjJTZvnAcUQOisxjGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799559364276-k241ge5hkj4mgcbfmahf8tf4g86nlmdm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
